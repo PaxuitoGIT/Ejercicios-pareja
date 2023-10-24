@@ -1,0 +1,3 @@
+C:/Users/Pizarman/CLionProjects/M3/cmake-build-debug/CMakeFiles/M3.dir
+C:/Users/Pizarman/CLionProjects/M3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pizarman/CLionProjects/M3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
