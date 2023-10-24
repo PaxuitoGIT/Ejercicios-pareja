@@ -24,7 +24,7 @@ int main () {
 
         int entero = 532;
         double decimal = 5.123;
-        char caracter = 'a';
+        char caracter = 'c';
         bool booleano = true;
 
         std::cout << "Entero: " << entero << std::endl;
