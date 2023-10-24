@@ -17,12 +17,10 @@ int main () {
     variablelocal();
     std::cout << "Variable global desde main: " << variableglobal <<std::endl;
 
-    if (true) {
-        int variablelocal = 80;
-        std::cout << "Variable local dentro del if: " << variablelocal << std::endl;
-    }
+    int variablelocal = 80;
+    std::cout << "Variable local dentro del if: " << variablelocal << std::endl;
 
-        int entero = 532;
+    int entero = 532;
         double decimal = 5.123;
         char caracter = 'c';
         bool booleano = true;
