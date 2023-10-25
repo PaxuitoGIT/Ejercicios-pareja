@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ejercicios-pareja",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "M1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M1-Debug-7f21b6bfc02ea594fa18.json",
+					"name" : "M1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M2-Debug-9b47f5b46bb7ad3e5b28.json",
+					"name" : "M2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M3-Debug-1cf1dc070eb7884e4e28.json",
+					"name" : "M3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M4-Debug-c1307573ea1cfca47482.json",
+					"name" : "M4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M5-Debug-7359099c733b8f69dfc0.json",
+					"name" : "M5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M6-Debug-6ac370b4fffde0c3bd32.json",
+					"name" : "M6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M7-Debug-3bbfa581ec09806aa171.json",
+					"name" : "M7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M8-Debug-1b3dc1ced6d68d45013a.json",
+					"name" : "M8",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug",
+		"source" : "C:/Users/aads7/Documents/GitHub/Ejercicios-pareja"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,10 @@
+C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug/CMakeFiles/M1.dir
+C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug/CMakeFiles/M2.dir
+C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug/CMakeFiles/M3.dir
+C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug/CMakeFiles/M4.dir
+C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug/CMakeFiles/M5.dir
+C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug/CMakeFiles/M6.dir
+C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug/CMakeFiles/M7.dir
+C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug/CMakeFiles/M8.dir
+C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aads7/Documents/GitHub/Ejercicios-pareja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
